@@ -1,0 +1,182 @@
+{
+  "pays": "Brésil",
+  "drapeau": "🇧🇷",
+  "symbole": "🌴",
+  "titre": "Évasion Relaxante à Mendes, Brésil",
+  "budget_total": "Environ 1700 €/personne",
+  "duree": "4 jours",
+  "date_debut": "2026-02-12",
+  "date_fin": "2026-02-16",
+  "temps_vol": "19h (depuis Foucheres, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douce Immersion à Mendes",
+      "legende": "Après un long voyage, la première journée est dédiée à l'acclimatation. Profitez de la tranquillité de Mendes pour vous détendre et vous imprégner de l'ambiance brésilienne.",
+      "lieu": "Mendes",
+      "activites": [
+        "<strong>🛬 Arrivée à Rio de Janeiro (GIG)</strong>: Atterrissage à l'aéroport international de Rio, suivi d'un transfert vers la paisible ville de Mendes.",
+        "<strong>🚗 Transfert vers Mendes</strong>: Un trajet d'environ 2 heures vous mènera à votre hébergement au cœur de la campagne fluminense.",
+        "<strong>🛏️ Installation et Repos</strong>: Prenez le temps de vous installer à l'hôtel et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♂️ Balade Relaxante dans Mendes</strong>: Une promenade légère dans les rues calmes de Mendes pour découvrir l'architecture locale et l'atmosphère sereine."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Décalage Horaire",
+          "texte": "Le Brésil (Rio de Janeiro) est à UTC-3, soit 4 heures de moins que la France en février. Prévoyez un peu de fatigue liée au décalage."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Transport GIG-Mendes",
+          "texte": "Il est recommandé de réserver un transfert privé ou de louer une voiture à l'aéroport pour rejoindre Mendes, les transports en commun étant moins directs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "☕",
+      "titre": "Sur les Traces du Café et Nature Apaisante",
+      "legende": "Plongez dans l'histoire fascinante des plantations de café de la \"Vallée du Café\" et ressourcez-vous au cœur d'une nature luxuriante et apaisante.",
+      "lieu": "Mendes & Vassouras",
+      "activites": [
+        "<strong>☕ Visite d'une Fazenda Historique</strong>: Explorez une ancienne plantation de café comme la Fazenda do Paraíso, pour un voyage dans le temps et une dégustation authentique.",
+        "<strong>🍽️ Déjeuner Fermier Traditionnel</strong>: Savourez un repas typique brésilien, souvent préparé avec des produits frais de la ferme, dans un cadre champêtre.",
+        "<strong>🌳 Promenade au Parc Municipal de Mendes</strong>: Une balade douce dans le parc local pour profiter de la verdure et de la tranquillité, loin de l'agitation."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Fazenda do Paraíso, Vassouras",
+          "categorie": "Ferme historique",
+          "coords": { "lat": -22.4080, "lng": -43.6660 }
+        },
+        {
+          "nom_recherche": "Parque Municipal de Mendes",
+          "categorie": "Parc",
+          "coords": { "lat": -22.5333, "lng": -43.7333 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "La Vallée du Café",
+          "texte": "La région de Mendes fait partie de la \"Vallée du Café\", autrefois le cœur de la production de café au Brésil. De nombreuses fazendas historiques sont ouvertes à la visite."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏘️",
+      "titre": "Charme Colonial et Détente Aquatique",
+      "legende": "Découvrez le charme des villes coloniales voisines et offrez-vous un moment de pure détente au bord de l'eau, dans un cadre naturel et rafraîchissant.",
+      "lieu": "Vassouras & Miguel Pereira",
+      "activites": [
+        "<strong>🚶‍♀️ Exploration de Vassouras</strong>: Visitez le centre historique de Vassouras, surnommée la \"Princesse du Café\", avec ses belles demeures coloniales et son église Matriz.",
+        "<strong>🛍️ Artisanat Local</strong>: Flânez dans les petites boutiques pour dénicher des souvenirs artisanaux et des produits régionaux.",
+        "<strong>💧 Détente au Poço da Lontra</strong>: Profitez d'un moment de fraîcheur et de calme au Poço da Lontra, une cascade naturelle avec des piscines d'eau douce, idéale pour se relaxer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Centre Historique de Vassouras",
+          "categorie": "Ville coloniale",
+          "coords": { "lat": -22.4019, "lng": -43.6644 }
+        },
+        {
+          "nom_recherche": "Cachoeira do Poço da Lontra, Miguel Pereira",
+          "categorie": "Cascade / Piscine naturelle",
+          "coords": { "lat": -22.4480, "lng": -43.7800 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les rues de Vassouras offrent de magnifiques opportunités pour la photographie, avec leurs façades colorées et leur architecture d'époque."
+        },
+        {
+          "symbole": "🌿",
+          "titre": "Nature",
+          "texte": "Le Poço da Lontra est un lieu paisible, parfait pour se ressourcer. Prévoyez des chaussures confortables pour la petite marche d'accès."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants Brésiliens et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner brésilien et d'un moment de détente avant de prendre la route vers l'aéroport de Rio pour votre vol retour vers la France.",
+      "lieu": "Mendes & Rio de Janeiro",
+      "activites": [
+        "<strong>🍳 Petit-déjeuner Brésilien</strong>: Savourez une dernière fois les saveurs locales avec un petit-déjeuner copieux, incluant fruits frais et pão de queijo.",
+        "<strong>🎁 Achats de Souvenirs</strong>: Si le temps le permet, quelques derniers achats de souvenirs pour emporter un peu du Brésil avec vous.",
+        "<strong>🚗 Transfert vers l'aéroport GIG</strong>: Reprenez la route vers l'aéroport international de Rio de Janeiro.",
+        "<strong>🛫 Vol Retour vers la France</strong>: Embarquement pour votre vol retour, la tête pleine de souvenirs de la \"Vallée du Café\"."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Anticipation",
+          "texte": "Prévoyez suffisamment de temps pour le trajet retour vers l'aéroport (environ 2h à 2h30) et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "841 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (transferts aéroport, location voiture ou taxis locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 150 €/pers (pour 4 jours, restaurants de gamme moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (3 nuits en hôtel 3* ou pousada de charme)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (visites de fazendas, accès aux sites naturels)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Février à Avril", "symbole": "☀️" },
+    { "titre": "Septembre à Novembre", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février, les températures à Mendes varient entre 20 et 30°C. Prévoir des vêtements légers, un chapeau et de la crème solaire.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Réal Brésilien (BRL). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Un adaptateur universel est nécessaire pour les prises électriques (type N, 220V).", "symbole": "🔌" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite se fait à droite.", "symbole": "🚗" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Rio de Janeiro fut la seule capitale européenne en dehors de l'Europe ! De 1808 à 1821, la cour portugaise s'y est réfugiée, faisant de Rio la capitale du Royaume-Uni de Portugal, du Brésil et des Algarves."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le \"Jeitinho Brasileiro\" est une expression qui décrit l'art brésilien de trouver une solution créative, souvent non conventionnelle, pour contourner un problème ou une règle. C'est un mélange d'ingéniosité et de débrouillardise !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Feijoada",
+      "description": "Le plat national brésilien, un ragoût copieux de haricots noirs avec diverses viandes de porc et de bœuf, servi avec du riz, de la farofa (farine de manioc grillée) et des légumes verts."
+    },
+    {
+      "symbole": "🧀",
+      "titre": "Pão de Queijo",
+      "description": "De délicieux petits pains au fromage à base de farine de tapioca, croustillants à l'extérieur et moelleux à l'intérieur, parfaits pour le petit-déjeuner ou une collation."
+    },
+    {
+      "symbole": "🍫",
+      "titre": "Brigadeiro",
+      "description": "Une petite douceur incontournable ! Ces truffes au chocolat à base de lait concentré, de cacao et de beurre, roulées dans des vermicelles de chocolat, sont un régal pour les gourmands."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-GIG/2026-02-12/2026-02-16", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Brasil", "url": "https://www.visitbrasil.com/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "ClimaTempo", "url": "https://www.climatempo.com.br/", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "Localiza", "url": "https://www.localiza.com/brasil/pt-br", "symbole": "🚗" }
+  ]
+}
